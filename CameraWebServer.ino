@@ -35,10 +35,6 @@ U8G2_SSD1309_128X64_NONAME2_1_4W_HW_SPI u8g2(/* rotation=*/U8G2_R0, /* cs=*/ OLE
 DFRobot_AXP313A axp;
 
 // WiFi Credentials
-// const char* ssid = "carolluca@gasan";
-// const char* password = "gasan1234";
-// const char* ssid = "DIGI_GCL";
-// const char* password = "carolluca";
 
 const char* ssid = "UPB-Guest";
 const char* password = "";
